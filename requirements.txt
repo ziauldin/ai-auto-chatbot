@@ -1,37 +1,6 @@
-# FastAPI + Server
 fastapi
 uvicorn
-
-# PostgreSQL Database
-sqlalchemy
-psycopg2-binary
-python-dotenv
-
-# NLP
-spacy
-en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
-
-# Frontend Templating
 jinja2
-
-# CSV + Data Processing
-pandas
-
-# CORS (for frontend access)
 aiofiles
 python-multipart
-fastapi[all]
-
-# Web Scraping (optional but useful)
-beautifulsoup4
-selenium
-webdriver-manager
-
-# Optional Utility
 nest_asyncio
-
-# Hugging Face + LLM Support
-transformers
-torch
-accelerate
-safetensors
