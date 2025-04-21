@@ -29,3 +29,9 @@ webdriver-manager
 
 # Optional Utility
 nest_asyncio
+
+# Hugging Face + LLM Support
+transformers
+torch
+accelerate
+safetensors
